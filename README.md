@@ -4,9 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, create a studio to meet in. For all of these steps we will be using the 'Development' environment. But feel free to use 'Production' when ready.
-
-Log in to https://dashboard.mux.com. In the left navigation menu, click on Studio from within the "/VIDEO" section. Click 'Create New Studio' and follow the prompts to create a new studio.
+First, we'll need to setup our Mux API keys. For all of these steps we will be using the 'Development' environment. But feel free to use 'Production' when ready.
 
 Now, create a .env.local file at the root of the repo with the following secrets:
 
